@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97357263965",
+    "project_id": "fcmtutorialapp-e6fa5",
+    "storage_bucket": "fcmtutorialapp-e6fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97357263965:android:f8e9af6b6c0643797cc9b4",
+        "android_client_info": {
+          "package_name": "com.example.myfcmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRbpUId3mii7pi0k0uiT1rqSo5C50dpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
